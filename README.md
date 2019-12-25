@@ -27,7 +27,7 @@ Após isso, o script raspará as informações presentes
 nas 15 primeiras páginas.
 
 O parâmetro '-p' é opcional, sendo que, caso não seja 
-passado, ele buscará as informações presentes na primeiras 
+passado, o script buscará as informações  nas primeiras 
 10 páginas.
 
 Quando o script terminar de rodar, o arquivo 
